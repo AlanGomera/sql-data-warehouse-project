@@ -10,11 +10,11 @@ The main objective of this project is to build a centralized analytical data war
 
 ## The solution follows three main layers:
 
---**Bronze Layer**
+1-**Bronze Layer**
 Stores data ingested from the original source files with minimal transformation. This layer preserves the source data and provides a foundation for downstream processing.
 
---**Silver Layer**
+2-**Silver Layer**
 Applies data cleansing, validation, standardization, and transformation rules to improve data quality and consistency.
---**Gold Layer**
 
+3-**Gold Layer**
 Contains business-ready dimensional models designed for analytical workloads. The final model follows a Star Schema consisting of fact and dimension tables.
