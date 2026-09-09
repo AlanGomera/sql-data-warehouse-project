@@ -1,4 +1,4 @@
-# SQL Server Data Warehouse & Analytics Project
+# Data Warehouse & Analytics Project
 Welcome to my Data Warehouse and Analytics Project. 🚀
 
 This repository showcases the design and implementation of a modern data warehouse using Microsoft SQL Server, following a Medallion Architecture with Bronze, Silver, and Gold layers.
